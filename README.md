@@ -1,1 +1,2 @@
-# weather-app-project
+#JavaScript project 
+#weather-app-project
